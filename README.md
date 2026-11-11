@@ -53,10 +53,5 @@ The report contains four pages:
 
 **Source:** [Kaggle – Churn Modelling](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 
-**Note:** This project uses a synthetic dataset for educational and analytical purposes. The findings do not represent the performance of a real bank.
-
-## How to View the Dashboard
-
-1. Download the `.pbix` file from this repository.
-2. Open it using Microsoft Power BI Desktop.
-3. Explore the interactive dashboards using the available filters and navigation buttons.
+## Project File
+Download the Power BI report (.pbix) from the files listed in this repository and open it using Power BI Desktop.
