@@ -48,9 +48,6 @@ The report contains four pages:
 ![Key Findings Dashboard](images/P4.png)
 
 ## Data Source
-
-**Dataset:** Churn Modelling
-
 **Source:** [Kaggle – Churn Modelling](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 
 ## Project File
